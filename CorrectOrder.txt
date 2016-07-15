@@ -1,6 +1,5 @@
-Phantom Menace (I)
-Attack of the Clones (II)
-Revenge of the Sith (III)
 New Hope (IV)
 Empire Strikes Back (V)
+Attack of the Clones (II)
+Revenge of the Sith (III)
 Return of the Jedi (VI)
